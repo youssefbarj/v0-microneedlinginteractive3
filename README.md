@@ -1,18 +1,20 @@
-# Guide Interactif Microneedling — Microblading & Microblading EN Slide 13
+# MICROBLADING — Slide 12 / MICROBLADING ET MICROSHADING — Slide 16
 
-**Course:** MICROBLADING & MICROBLADING (EN)  
-**Slide:** 13  
-**Live URL:** https://v0-microneedlinginteractive3.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
-
-## What this slide does
-
-An interactive microneedling protocol guide embedded within the microblading course — covering the use of microneedling as a complementary or preparatory technique alongside microblading. Learners step through the protocol interactively, understanding when and how to incorporate microneedling into a combined treatment session. The interactive format makes it easier to memorise the sequence of steps compared to static text.
+**Course:** MICROBLADING — Slide 12
+**Course:** MICROBLADING ET MICROSHADING — Slide 16
+**Live URL:** https://v0-microneedlinginteractive3.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
 ## Screenshot
 
-![v0-microneedlinginteractive3](./screenshot.png)
+![v0-microneedlinginteractive3](https://github.com/youssefbarj/v0-microneedlinginteractive3/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
