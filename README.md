@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![v0-microneedlinginteractive3](https://github.com/youssefbarj/v0-microneedlinginteractive3/raw/main/screenshot.png)
+![v0-microneedlinginteractive3](https://raw.githubusercontent.com/youssefbarj/v0-microneedlinginteractive3/main/screenshot.png)
 
 ## What this slide does
 
